@@ -1,4 +1,4 @@
-Stonck provides quick and easy access to stock market information
+Stoncks provides quick and easy access to stock market information
 * Watchlist displays stock name, price, change, market cap, and a one day price chart all in one glance. 
 * Select any ticker displays a gorgeous detailed screen with enhanced interactive graph, stock statistics and description, and business news. 
 
